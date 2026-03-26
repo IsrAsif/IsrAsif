@@ -6,11 +6,7 @@
 
 🎓 Computer Science student passionate about building real-world systems
 
-🌐 Currently working on a University Complaint Management System
-
 💻 Skilled in Web Development (HTML, CSS, JavaScript)
-
-🧠 Learning Data Structures, Databases & Computer Networks
 
 ⚙️ Experience with C++, Assembly (emu8086), and Networking (Packet Tracer)
 
