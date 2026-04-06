@@ -14,10 +14,17 @@
 🎓 Passionate Computer Science student focused on building real-world applications  
 💻 Skilled in **Web Development** (HTML, CSS, JavaScript)  
 ⚙️ Experience with **C++**, **Assembly (emu8086)**, and **Computer Networking (Packet Tracer)**  
-📊 علاقه in **Data Analytics** and exploring data-driven solutions  
+📊 Interested in **Data Analytics** and exploring data-driven solutions  
 🤝 Open to collaborating on student projects and beginner-friendly open source  
 💬 Ask me about **C++, Networking, or Web Development**  
 ⚡ Fun fact: I enjoy working across both **low-level programming** and **modern web technologies**
+
+---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
 
 ---
 
