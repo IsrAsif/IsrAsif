@@ -1,43 +1,35 @@
-## Hi there, I'm Isra Asif 👋
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF6EC7&center=true&vCenter=true&width=700&lines=Hi+I'm+Isra+Asif+👋;Computer+Science+Student;Web+Developer+💻;Data+Analytics+Enthusiast;Welcome+to+my+Portfolio+🚀" />
+</p>
 
-💻 Web Developer | CS Student | Problem Solver
+---
 
-💫 About Me:
+## 👋 Hi there, I'm Isra Asif  
 
-🎓 Computer Science student passionate about building real-world systems
+💻 **Web Developer | CS Student | Problem Solver**
 
-💻 Skilled in Web Development (HTML, CSS, JavaScript)
+---
 
-⚙️ Experience with C++, Assembly (emu8086), and Networking (Packet Tracer)
+## 💫 About Me  
 
-🤝 Open to collaborate on student projects & beginner-friendly open source
+🎓 Computer Science student passionate about building real-world systems  
+💻 Skilled in **HTML, CSS, JavaScript**  
+⚙️ Experience with **C++, Assembly (emu8086), and Networking (Packet Tracer)**  
+🤝 Open to collaborate on student projects & beginner-friendly open source  
+💬 Ask me about **C++, Networking, or Web Development**  
+⚡ Fun fact: I work on both low-level programming and modern web apps  
 
-💬 Ask me about C++, Networking, or Web Development
+---
 
-⚡ Fun fact: I work on both low-level programming and web apps
+## 🌐 Connect With Me  
 
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/isra-asif-3731852b8/
 
+📧 **Email:**  
+asifisra2@gmail.com  
 
+---
 
-🌐 Connect With Me:
-
-💼 LinkedIn: https://www.linkedin.com/in/isra-asif-3731852b8/
-
-📧 Email: asifisra2@gmail.com
-<!--
-**IsrAsif/IsrAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Thanks for visiting my profile!*
