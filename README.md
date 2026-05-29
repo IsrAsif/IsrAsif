@@ -6,7 +6,7 @@
 
 ### 💫 About Me
 🎓 Passionate Computer Science student focused on building real-world applications  
-💻 Skilled in **Web Development** (HTML, CSS, JavaScript)  
+💻 Skilled in **Web Development** (HTML, CSS, JavaScript, PHP)  
 ⚙️ Experience with **C++**, **Assembly (emu8086)**, and **Computer Networking (Packet Tracer)**  
 📊 Interested in **Data Analytics** and exploring data-driven solutions  
 🤝 Open to collaborating on student projects and beginner-friendly open source  
