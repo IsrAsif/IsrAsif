@@ -11,7 +11,6 @@
 📊 Interested in **Data Analytics** and exploring data-driven solutions  
 🤝 Open to collaborating on student projects and beginner-friendly open source  
 💬 Ask me about **C++, Networking, or Web Development**  
-⚡ Fun fact: I enjoy working across both **low-level programming** and **modern web technologies**
 
 ---
 
